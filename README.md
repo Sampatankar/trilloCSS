@@ -1,7 +1,7 @@
 # trilloCSS
 Project 2: Advanced CSS Course
 
-This is the second course from Jonas Schmedtmann's course on Advanced CSS hosted on Udemy.
+This is the second tutorial from Jonas Schmedtmann's course on Advanced CSS hosted on Udemy.
 
 The app is a basic, but aesthetically pleasing version of Expedia.com.
 
